@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/neoziro/angular-pretty-bytes",
   "dependencies": {
-    "pretty-bytes": "~1.0.4"
+    "pretty-bytes": "^1.0.4"
   },
   "devDependencies": {
     "chai": "^1.9.2",
